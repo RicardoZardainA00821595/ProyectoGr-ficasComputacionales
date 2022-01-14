@@ -1,5 +1,5 @@
-# ProyectoGr-ficasComputacionales
-Proyecto final de la materia de gráficas computacionales
+# ProyectoGraficasComputacionales
+Proyecto final de la materia de Gráficas Computacionales
 
 DESCRIPCIÓN DE LA ESCENA 
 
